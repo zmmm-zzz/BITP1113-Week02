@@ -1,2 +1,3 @@
 # BITP1113-Week02
 BITP 1113 Programming Technique - Week 02 lab
+SOO ZHONG MING, B032610185, BITC
